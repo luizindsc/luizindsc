@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm doing bachelor's degree in Software Engineering<br>
-I'm working on this <a href="https://zelfine-website.vercel.app/">website</a>.<br>
+I'm working on this <a href="https://zelfine-website.vercel.app/" target ="_blank">website</a>.<br>
 I'm looking for opportunities to get an internship to improve <br>my skills and learn much more than I know.<br>
 And I'm from Brazil!
 
