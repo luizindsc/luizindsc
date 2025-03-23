@@ -1,5 +1,7 @@
 <h1 align="left">Alert! Im Luiz an Brazilian Developer 👋🏽!</h1>
 
+👨🏼‍🎓 | I am doing a bachelor's degree in Software Engineering
+
 ###
 
 <br clear="both">
@@ -47,4 +49,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizindsc/luizindsc/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/luizindsc/luizindsc/output/github-snake.svg" />
 </picture>
-###
+
