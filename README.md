@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Luiz and I'm a Frontend Developer from Brazil</h2>
+<h2 align="left">
+  Brazilian, 19y, Studying Software Engineering
+</h2>
 
 ###
 
