@@ -1,4 +1,4 @@
-<h2 align="left">A Wild Web Developer appears! 🍃😯</h2>
+<h2 align="left">A wild Web Developer appears! 🍃😯</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">💻 | My Stack and Contact:</h3>
+<h2 align="left">💻 | My Stack and Contact:</h2>
 
 ###
 
