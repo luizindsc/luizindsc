@@ -1,12 +1,4 @@
-<h1 align="left">A wild Web Developer appears! 🍃😯</h1>
-
-###
-
-<p align="left">Hi, my name is Luiz, a passionate Web Developer. Take a look about me<br><br>📚- I am studying for a bachelor's degree in software engineering<br>🤔 - I am working on my portfolio now.</p>
-
-###
-
-<h2 align="left">💻 | My Stack and Contact:</h2>
+<h1 align="left">A Wild Web Developer appears! 🍃😯</h1>
 
 ###
 
@@ -14,16 +6,26 @@
 
 ###
 
+<p align="left">I'm a passionate web developer with a strong interest in building innovative digital experiences. Currently pursuing a Bachelor's degree in Software Engineering.<br><br>📚 - I am studying for a bachelor's degree in software engineering<br>📈 - I am working on my portfolio now.</p>
+
+###
+
 <div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="50" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
 </div>
 
 ###
@@ -32,10 +34,10 @@
   <a href="https://www.linkedin.com/in/luiz-caetano/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href=" wa.link/r0ga5n" target="_blank">
+  <a href="https://wa.me/5535999902059" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWstvKCHCgwDZSjBKlqFlvNMLbMqMWRLgNpBWCxnbLFMxjspDvdcCGxSLKMsDsmDVtBFNpVWl" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
